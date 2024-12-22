@@ -1,0 +1,6 @@
+git add: thêm file vào trong kho lưu trữ git
+* git add .: thêm tất cả các file vào trong kho lưu trữ
+* git add tên_file: thêm file mình muốn vào trong kho lưu trữ
+git commit -m "tên commit": commit lại các file
+git checkout -b "tên nhánh": Chuyển sang 1 nhánh mới
+git push origin tên_nhánh: Đẩy code lên github
